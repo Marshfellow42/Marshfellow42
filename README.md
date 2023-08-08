@@ -16,4 +16,4 @@ Esse é meu perfil de programação
 
 ### Status
 
-![Marshfellow's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marshfellow42&show_icons=true&theme=gruvbox)
+![Marshfellow's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marshfellow42&show_icons=true&theme=dracula)
