@@ -1,5 +1,5 @@
 # Hi There 👋
-My name is Leandro Cândido, I'm a student at the Instituto Federal do Ceará (IFCE), currently I'm in the 3rd semester in high school
+My name is Leandro Cândido, I'm a student at the Instituto Federal do Ceará (IFCE), currently at the 3rd semester in high school
 
 ### Programming Languages
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
