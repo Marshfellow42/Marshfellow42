@@ -48,3 +48,5 @@ My name is Leandro Cândido, I'm a student at the Instituto Federal do Ceará (I
   <img src="https://github-readme-stats.vercel.app/api?username=Marshfellow42&show_icons=true&theme=dracula" alt="Marshfellow's GitHub stats" />
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marshfellow42)
+
