@@ -48,5 +48,5 @@ My name is Leandro Cândido, I'm a student at the Instituto Federal do Ceará (I
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marshfellow42&show_icons=true&locale=en" alt="marshfellow42" /></p>
 
-#### _Read this in other languages
+#### Read this in other languages
 <kbd>[<img title="Português" alt="Português" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](Translations/README_pt-br.md)</kbd>
