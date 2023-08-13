@@ -1,4 +1,6 @@
 # Hi There 👋
+<img
+src="https://www.dropbox.com/scl/fi/fiblazr0u8dt2qc6bwanu/Screenshot_20230615-012406_1.png?rlkey=x2k6dgvnqcdrq5a1w9bidsm7u&raw=1" />
 My name is Leandro Cândido, I'm a student at the Instituto Federal do Ceará (IFCE), currently at the 3rd semester in high school
 
 ### Programming Languages
