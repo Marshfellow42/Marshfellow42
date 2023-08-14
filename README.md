@@ -40,6 +40,7 @@ My name is Leandro Cândido, I'm a student at the Instituto Federal do Ceará (I
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://img.icons8.com/fluency/100/000000/github.png" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://www.dropbox.com/scl/fi/w4rtkjwc4fqb4r68nfiak/Virtualbox_logo.png?rlkey=5acg55xmg19srs1qf5880mrs6&raw=1" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
 
 <br/>
 
