@@ -1,5 +1,5 @@
 # Olá👋
-Meu nome é Leandro Cândido, eu sou um estudante do Instituto Federal do Ceará (IFCE), atualmente eu estou no 3° semestre do ensino médio
+Meu nome é [[REDACTED]], eu sou um estudante do Instituto Federal do Ceará (IFCE), atualmente eu estou no 3° semestre do ensino médio
 
 ### Linguagens de Programação
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
