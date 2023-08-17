@@ -1,7 +1,7 @@
 # Hi There 👋
 <img
 src="https://www.dropbox.com/scl/fi/fiblazr0u8dt2qc6bwanu/Screenshot_20230615-012406_1.png?rlkey=x2k6dgvnqcdrq5a1w9bidsm7u&raw=1" />
-My name is Leandro Cândido, I'm a student at the Instituto Federal do Ceará (IFCE), currently at the 3rd semester in high school
+My name is [[REDACTED]], I'm a student at the Instituto Federal do Ceará (IFCE), currently at the 3rd semester in high school
 
 ### Programming Languages
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
