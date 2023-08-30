@@ -1,5 +1,7 @@
 # Olá👋
-Meu nome é [[REDACTED]], eu sou um estudante do Instituto Federal do Ceará (IFCE), atualmente eu estou no 3° semestre do ensino médio
+Meu nome é Leandro Cândido, eu sou um estudante de informática do Instituto Federal do Ceará (IFCE), atualmente no terceiro semestre do ensino médio. Meus interesses atuais são Ciência de Dados e Cibersegurança. Meus hobbies atuais são concertar computadores e escutar música
+
+## Habilidades Técnicas
 
 ### Linguagens de Programação
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -37,13 +39,16 @@ Meu nome é [[REDACTED]], eu sou um estudante do Instituto Federal do Ceará (IF
 ### Outros
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://img.icons8.com/fluency/100/000000/github.png" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://www.dropbox.com/scl/fi/w4rtkjwc4fqb4r68nfiak/Virtualbox_logo.png?rlkey=5acg55xmg19srs1qf5880mrs6&raw=1" />
+<img align="left" alt="VirtualBox" width="30px" style="padding-right:10px;" src="https://www.dropbox.com/scl/fi/w4rtkjwc4fqb4r68nfiak/Virtualbox_logo.png?rlkey=5acg55xmg19srs1qf5880mrs6&raw=1" />
+<img align="left" alt="Raspberry Pi" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
+<img align="left" alt="Markdown" width="35px" style="padding-right:10px;" src="https://www.dropbox.com/scl/fi/cyp68k2jd96zyadr4613m/Markdown.png?rlkey=t2szjr3p7kc5tzwou8f787b30&raw=1" />
+<img align="left" alt="Obsidian" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" />
 
 <br/>
 
 #
 
-## Coding Activity
+## Atividade Programando
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marshfellow42&show_icons=true&locale=pt-br&layout=compact" alt="marshfellow42" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marshfellow42&show_icons=true&locale=pt-br" alt="marshfellow42" /></p>
