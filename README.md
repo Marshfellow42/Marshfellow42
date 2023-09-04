@@ -58,5 +58,8 @@ My name is Leandro Cândido. I'm an IT student at the Instituto Federal do Cear�
 <a href="https://www.linkedin.com/in/lc897/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
+ ### Visitors Count
+ ![](https://komarev.com/ghpvc/?username=marshfellow42&style=flat-square)
+
 #### Read this in other languages
 <kbd>[<img title="Português" alt="Português" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](Translations/README_pt-br.md)</kbd>
