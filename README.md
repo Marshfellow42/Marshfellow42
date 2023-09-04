@@ -59,7 +59,7 @@ My name is Leandro Cândido. I'm an IT student at the Instituto Federal do Cear�
  </div>
 
  ### Visitors Count
- ![](https://komarev.com/ghpvc/?username=marshfellow42&style=flat)
+ ![](https://komarev.com/ghpvc/?username=marshfellow42&style=flat-square)
 
 #### Read this in other languages
 <kbd>[<img title="Português" alt="Português" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](Translations/README_pt-br.md)</kbd>
