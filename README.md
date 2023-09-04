@@ -31,6 +31,7 @@ My name is Leandro C√¢ndido. I'm an IT student at the Instituto Federal do Cear√
 ### IDE
 <img align="left" alt="Vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Eclipse" width="30px" style="padding-right:10px;" src="https://www.dropbox.com/scl/fi/9ybh7w2mhlw8kygx7474o/NicePng_eclipse-png_2648074.png?rlkey=d1p9fh40dniiy6jw477phrp1x&raw=1" />
+<img align="left" alt="Replit" width="25px" style="padding-right:10px;" src="https://www.dropbox.com/scl/fi/e5tunwm4smfrihy1hz589/replit-icon-logo-A666709FE9-seeklogo.com.png?rlkey=z4mhbcj8mvwsfu7gt5c2hh0ju&raw=1" />
 
 <br/>
 
