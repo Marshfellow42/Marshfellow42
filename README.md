@@ -42,7 +42,6 @@ My name is Leandro CÃ¢ndido. I'm an IT student at the Instituto Federal do CearÃ
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://img.icons8.com/fluency/100/000000/github.png" />
 <img align="left" alt="VirtualBox" width="30px" style="padding-right:10px;" src="https://www.dropbox.com/scl/fi/w4rtkjwc4fqb4r68nfiak/Virtualbox_logo.png?rlkey=5acg55xmg19srs1qf5880mrs6&raw=1" />
 <img align="left" alt="Raspberry Pi" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
-<img align="left" alt="Markdown" width="55px" style="padding-right:10px;" src="https://www.dropbox.com/scl/fi/0mep2mjzyx4jst2njjbbd/Markdown.png?rlkey=60u01w16xxd29ybjz7zs6z24g&raw=1" />
 <img align="left" alt="Obsidian" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" />
 
 <br/>
