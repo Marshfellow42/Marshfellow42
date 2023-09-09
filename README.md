@@ -12,13 +12,6 @@ My name is Leandro C√¢ndido. I'm an IT student at the Instituto Federal do Cear√
 
 #
 
-### Frameworks
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-
-<br/>
-
-#
-
 ### Operational Systems
 <img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 <img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
@@ -36,21 +29,39 @@ My name is Leandro C√¢ndido. I'm an IT student at the Instituto Federal do Cear√
 
 #
 
-### Others
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://img.icons8.com/fluency/100/000000/github.png" />
-<img align="left" alt="VirtualBox" width="30px" style="padding-right:10px;" src="https://www.dropbox.com/scl/fi/w4rtkjwc4fqb4r68nfiak/Virtualbox_logo.png?rlkey=5acg55xmg19srs1qf5880mrs6&raw=1" />
-<img align="left" alt="Raspberry Pi" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
+### Content Production
+<img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" />
 <img align="left" alt="Obsidian" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" />
 
 <br/>
 
 #
 
-## Coding Activity
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marshfellow42&show_icons=true&locale=en&layout=compact" alt="marshfellow42" /></p>
+### Others
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="VirtualBox" width="30px" style="padding-right:10px;" src="https://www.dropbox.com/scl/fi/w4rtkjwc4fqb4r68nfiak/Virtualbox_logo.png?rlkey=5acg55xmg19srs1qf5880mrs6&raw=1" />
+<img align="left" alt="Raspberry Pi" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marshfellow42&show_icons=true&locale=en" alt="marshfellow42" /></p>
+<br/>
+
+#
+
+### Things I'm Learning
+<img align="left" alt="Android" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
+<img align="left" alt="Android" width="30px" height="37px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+<img align="left" alt="MySql" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="Firebase" width="35px" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+<img align="left" alt="Docker" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+
+
+<br/>
+
+#
+
+## Coding Activity
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marshfellow42&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true" alt="marshfellow42" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marshfellow42&show_icons=true&locale=en&theme=algolia&hide_border=true" alt="marshfellow42" /></p>
 
 ## Where to also find me
 <div align="left"> 
