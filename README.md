@@ -1,5 +1,5 @@
 # Hi There 👋
-My name is Leandro Cândido. I'm an IT student at the Instituto Federal do Ceará (IFCE), currently at the 3rd semester in high school. My current interests in technology are Data Science and Cybersecurity. My current hobbies are fixing computers and listening to music. I'm interested in Japanese culture, especially Manga, Anime, and J-Pop, and I'm learning the Japanese language
+My name is Leandro Cândido. I'm an IT student at the Instituto Federal do Ceará (IFCE), currently at the 3rd semester in high school. My current interests in technology are Data Science and Cybersecurity. My current hobbies are fixing computers and listening to music. I'm interested in Japanese culture and history, and I'm currently learning the Japanese language
 
 ## Technical Skills
 
@@ -11,7 +11,6 @@ My name is Leandro Cândido. I'm an IT student at the Instituto Federal do Cear�
 <br/>
 
 #
-
 
 ### Frameworks
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
