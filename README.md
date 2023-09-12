@@ -1,11 +1,12 @@
-# Hi There 👋
+# Hi There <img width="32px" src="https://www.dropbox.com/scl/fi/t0fdbefjb6efm62yvo2es/wave.gif?rlkey=znc799qnmeebj28nud3mgxs1j&raw=1" />
+
 My name is Leandro Cândido. I'm an IT student at the Instituto Federal do Ceará (IFCE), currently at the 3rd semester in high school.
 
-- 🔭 I’m currently working on studying Data Science and Cybersecurity
+- 🔭 I’m currently working on studying **Data Science** and **Cybersecurity**
 
 - 💬 My current hobbies are fixing computers and listening to music
 
-- 🌱 I’m currently learning Japanese
+- 🌱 I’m currently learning **Japanese**
 
 ## Technical Skills
 
