@@ -4,7 +4,7 @@ My name is Leandro Cândido. I'm an IT student at the Instituto Federal do Cear�
 
 - 🔭 I’m currently working on studying **Data Science** and **Cybersecurity**
 
-- 💬 My current hobbies are fixing computers and listening to music
+- 💬 My current hobbies are fixing computers and search for new project ideas
 
 - 🌱 I’m currently learning **Japanese**
 
@@ -62,8 +62,8 @@ My name is Leandro Cândido. I'm an IT student at the Instituto Federal do Cear�
 
 ## Where to also find me
 <div align="left"> 
-<a href="https://www.linkedin.com/in/lc897/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
+<a href="https://www.linkedin.com/in/lc897/" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" ></a> 
+</div>
 
  ### Visitors Count
  ![](https://komarev.com/ghpvc/?username=marshfellow42&style=flat-square)
