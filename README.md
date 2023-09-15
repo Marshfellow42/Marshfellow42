@@ -62,7 +62,7 @@ My name is Leandro C√¢ndido. I'm an IT student at the Instituto Federal do Cear√
 
 ## Where to also find me
 <div align="left"> 
-<a href="https://www.linkedin.com/in/lc897/" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" ></a> 
+<a href="https://www.linkedin.com/in/lc897/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
 
  ### Visitors Count
