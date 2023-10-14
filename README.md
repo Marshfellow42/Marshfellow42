@@ -30,6 +30,7 @@ My name is Leandro C√¢ndido. I'm an IT student at the Instituto Federal do Cear√
 ### IDE
 <img align="left" alt="Vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Eclipse" width="30px" style="padding-right:10px;" src="https://github.com/marshfellow42/marshfellow42/blob/34550c857a86be40afa6b96e8cc6a3a137a6bb29/Assets/README/NicePng_eclipse-png_2648074.png" />
+<img align="left" alt="Netbeans" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" />
 <img align="left" alt="Replit" width="25px" style="padding-right:10px;" src="https://github.com/marshfellow42/marshfellow42/blob/34550c857a86be40afa6b96e8cc6a3a137a6bb29/Assets/README/replit-icon-logo-A666709FE9-seeklogo.com.png" />
 
 <br/>
