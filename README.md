@@ -62,9 +62,6 @@ My name is Leandro C√¢ndido. I'm an IT student at the Instituto Federal do Cear√
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marshfellow42&show_icons=true&locale=en&theme=algolia&hide_border=true" alt="marshfellow42" /></p>
 
 ## Where to also find me
-<div align="left"> 
-<a href="https://www.linkedin.com/in/lc897/" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="padding-right:10px ></a> 
-</div>
 
 <div align="left">
 <a href="mailto:leandrocandido6@protonmail.com"> <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" style="padding-right:10px ></a> 
