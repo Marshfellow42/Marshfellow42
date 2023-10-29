@@ -75,4 +75,4 @@ My name is Leandro Cândido. I'm an IT student at the Instituto Federal do Cear�
 ![](https://komarev.com/ghpvc/?username=marshfellow42&style=flat-square)
 
 #### Read this in other languages
-<kbd>[<img title="Português" alt="Português" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](Translations/README_pt-br.md)</kbd>
+<kbd>[<img title="Português" alt="Português" src="https://github.com/marshfellow42/marshfellow42/blob/a049424872bfac3d66825451c1c18582998a7dc5/Assets/README/brasil.png" width="22">](Translations/README_pt-br.md)</kbd>
