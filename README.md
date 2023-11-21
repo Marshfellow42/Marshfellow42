@@ -42,6 +42,7 @@ My name is Leandro C√¢ndido. I'm an IT student at the Instituto Federal do Cear√
 ### Content Production
 <img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" />
 <img align="left" alt="Obsidian" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" />
+<img align="left" alt="GIMP" width="30px" style="padding-right:10px;" src="https://github.com/marshfellow42/marshfellow42/blob/8cf9745e5cb24bb0a09be5bc2001bb1ab4a9d96c/Assets/README/The_GIMP_icon_-_gnome.svg" />
 
 <br/>
 
