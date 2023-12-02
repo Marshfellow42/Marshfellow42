@@ -11,58 +11,58 @@ My name is Leandro Cândido. I'm an IT student at the Instituto Federal do Cear�
 ## Technical Skills
 
 ### Programming Languages
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" title="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" title="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" title="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
 <br/>
 
 #
 
 ### Operational Systems
-<img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-<img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+<img align="left" title="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+<img align="left" title="Ubuntu" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
 
 <br/>
 
 #
 
 ### IDE
-<img align="left" alt="Vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="Eclipse" width="30px" style="padding-right:10px;" src="https://github.com/marshfellow42/marshfellow42/blob/34550c857a86be40afa6b96e8cc6a3a137a6bb29/Assets/README/NicePng_eclipse-png_2648074.png" />
-<img align="left" alt="Netbeans" width="27px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" />
-<img align="left" alt="Replit" width="24px" style="padding-right:10px;" src="https://github.com/marshfellow42/marshfellow42/blob/34550c857a86be40afa6b96e8cc6a3a137a6bb29/Assets/README/replit-icon-logo-A666709FE9-seeklogo.com.png" />
+<img align="left" title="Vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" title="Eclipse" width="30px" style="padding-right:10px;" src="https://github.com/marshfellow42/marshfellow42/blob/34550c857a86be40afa6b96e8cc6a3a137a6bb29/Assets/README/NicePng_eclipse-png_2648074.png" />
+<img align="left" title="Netbeans" width="27px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" />
+<img align="left" title="Replit" width="24px" style="padding-right:10px;" src="https://github.com/marshfellow42/marshfellow42/blob/34550c857a86be40afa6b96e8cc6a3a137a6bb29/Assets/README/replit-icon-logo-A666709FE9-seeklogo.com.png" />
 
 <br/>
 
 #
 
 ### Content Production
-<img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" />
-<img align="left" alt="Obsidian" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" />
-<img align="left" alt="GIMP" width="30px" style="padding-right:10px;" src="https://github.com/marshfellow42/marshfellow42/blob/8cf9745e5cb24bb0a09be5bc2001bb1ab4a9d96c/Assets/README/The_GIMP_icon_-_gnome.svg" />
+<img align="left" title="Canva" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" />
+<img align="left" title="Obsidian" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" />
+<img align="left" title="GIMP" width="30px" style="padding-right:10px;" src="https://github.com/marshfellow42/marshfellow42/blob/8cf9745e5cb24bb0a09be5bc2001bb1ab4a9d96c/Assets/README/The_GIMP_icon_-_gnome.svg" />
 
 <br/>
 
 #
 
 ### Others
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="MySql" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="VirtualBox" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" />
-<img align="left" alt="Raspberry Pi" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
-<img align="left" alt="Docker" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="left" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" title="MySql" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" title="VirtualBox" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" />
+<img align="left" title="Raspberry Pi" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
+<img align="left" title="Docker" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 
 <br/>
 
 #
 
 ## Coding Activity
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marshfellow42&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true" alt="marshfellow42" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marshfellow42&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true" title="marshfellow42" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marshfellow42&show_icons=true&locale=en&theme=algolia&hide_border=true" alt="marshfellow42" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marshfellow42&show_icons=true&locale=en&theme=algolia&hide_border=true" title="marshfellow42" /></p>
 
 ## Where to also find me
 
@@ -78,4 +78,4 @@ My name is Leandro Cândido. I'm an IT student at the Instituto Federal do Cear�
 ![](https://komarev.com/ghpvc/?username=marshfellow42&style=flat-square)
 
 #### Read this in other languages
-<kbd>[<img title="Português" alt="Português" src="https://github.com/marshfellow42/marshfellow42/blob/a049424872bfac3d66825451c1c18582998a7dc5/Assets/README/brasil.png" width="22">](Translations/README_pt-br.md)</kbd>
+<kbd>[<img title="Português" title="Português" src="https://github.com/marshfellow42/marshfellow42/blob/a049424872bfac3d66825451c1c18582998a7dc5/Assets/README/brasil.png" width="22">](Translations/README_pt-br.md)</kbd>
