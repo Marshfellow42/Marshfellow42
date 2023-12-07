@@ -60,9 +60,9 @@ My name is Leandro C√¢ndido. I'm an IT student at the Instituto Federal do Cear√
 #
 
 ## Coding Activity
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marshfellow42&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true" title="marshfellow42" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marshfellow42&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marshfellow42&show_icons=true&locale=en&theme=algolia&hide_border=true" title="marshfellow42" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marshfellow42&show_icons=true&locale=en&theme=algolia&hide_border=true" /></p>
 
 ## Where to also find me
 
