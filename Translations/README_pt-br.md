@@ -1,11 +1,11 @@
 # Olá <img width="32px" src="https://github.com/marshfellow42/marshfellow42/blob/34550c857a86be40afa6b96e8cc6a3a137a6bb29/Assets/README/wave.gif" />
 Meu nome é Leandro Cândido, eu sou um estudante de informática do Instituto Federal do Ceará (IFCE), atualmente no terceiro semestre do ensino médio.
 
-- 🔭 Atualmente eu estou estudando **CIência de Dados** e **Cibersegurança**
+- 🔭 Atualmente eu estou estudando **Ciência de Dados** e **Cibersegurança**
 
 - 💬 Meus hobbies atuais são consertar computadores e procurar ideias para projetos novos
 
-- 🌱 Atualmente estou aprendendo **Japônes**
+- 🌱 Atualmente estou aprendendo **Japonês**
 
 ## Habilidades Técnicas
 
