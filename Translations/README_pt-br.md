@@ -7,6 +7,8 @@ Meu nome é Leandro Cândido, eu sou um estudante de informática do Instituto F
 
 - 🌱 Atualmente estou aprendendo **Japonês**
 
+- ☁️ Eu acho que eu me encaixo melhor em **Back-End** 
+
 ## Habilidades Técnicas
 
 ### Linguagens de Programação

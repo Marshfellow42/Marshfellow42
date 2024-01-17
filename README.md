@@ -8,6 +8,8 @@ My name is Leandro Cândido. I'm an IT student at the Instituto Federal do Cear�
 
 - 🌱 I’m currently learning **Japanese**
 
+- ☁️ I think I might be more suited to **Back-End** work
+
 ## Technical Skills
 
 ### Programming Languages
