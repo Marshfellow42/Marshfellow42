@@ -31,7 +31,7 @@ My name is Leandro C√¢ndido. I'm an IT student at the Instituto Federal do Cear√
 
 ### Operational Systems
 <img align="left" title="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-<img align="left" title="Ubuntu" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+<img align="left" title="Ubuntu" width="30px" style="padding-right:10px;" src="https://github.com/marshfellow42/marshfellow42/blob/6c86057b222f06a70ed155c109ee0e0274cd5ef0/Assets/README/ubuntu-4-logo-svg-vector.svg" />
 
 <br/>
 
