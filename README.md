@@ -1,10 +1,10 @@
 # Hi There <img width="32px" src="https://github.com/marshfellow42/marshfellow42/blob/34550c857a86be40afa6b96e8cc6a3a137a6bb29/Assets/README/wave.gif" />
 
-My name is Leandro Cândido. I'm an IT student at the Instituto Federal do Ceará (IFCE), currently at the 3rd semester in high school.
+My name is Leandro Cândido. I'm an IT student at the Instituto Federal do Ceará (IFCE), currently at the 4th semester in high school.
 
-- 🔭 I’m currently working on studying **Data Science** and **Cybersecurity**
+- 🔭 I’m currently studying more about **Cybersecurity**
 
-- 💬 My current hobbies are fixing computers and search for new project ideas
+- 💬 My current hobbies are reading **manga** and working on new project ideas
 
 - 🌱 I’m currently learning **Japanese**
 
