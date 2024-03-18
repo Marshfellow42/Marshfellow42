@@ -1,4 +1,4 @@
-# Olá <img width="32px" src="https://github.com/marshfellow42/marshfellow42/blob/34550c857a86be40afa6b96e8cc6a3a137a6bb29/Assets/README/wave.gif" />
+# Olá <img width="32px" src="/Assets/wave.gif" />
 Meu nome é Leandro Cândido, eu sou um estudante de informática do Instituto Federal do Ceará (IFCE), atualmente no terceiro semestre do ensino médio.
 
 - 🔭 Atualmente eu estou estudando **Ciência de Dados** e **Cibersegurança**
@@ -30,7 +30,7 @@ Meu nome é Leandro Cândido, eu sou um estudante de informática do Instituto F
 
 ### Sistemas Operacionais
 <img align="left" title="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-<img align="left" title="Ubuntu" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+<img align="left" title="Ubuntu" width="30px" style="padding-right:10px;" src="/Assets/ubuntu-4-logo-svg-vector.svg" />
 
 <br/>
 
@@ -38,9 +38,9 @@ Meu nome é Leandro Cândido, eu sou um estudante de informática do Instituto F
 
 ### IDE
 <img align="left" title="Vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" title="Eclipse" width="30px" style="padding-right:10px;" src="https://github.com/marshfellow42/marshfellow42/blob/34550c857a86be40afa6b96e8cc6a3a137a6bb29/Assets/README/NicePng_eclipse-png_2648074.png" />
+<img align="left" title="Eclipse" width="30px" style="padding-right:10px;" src="/Assets/NicePng_eclipse-png_2648074.png" />
 <img align="left" title="Netbeans" width="27px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" />
-<img align="left" title="Replit" width="24px" style="padding-right:10px;" src="https://github.com/marshfellow42/marshfellow42/blob/34550c857a86be40afa6b96e8cc6a3a137a6bb29/Assets/README/replit-icon-logo-A666709FE9-seeklogo.com.png" />
+<img align="left" title="Replit" width="24px" style="padding-right:10px;" src="/Assets/replit-icon-logo-A666709FE9-seeklogo.com.png" />
 
 <br/>
 
@@ -49,7 +49,7 @@ Meu nome é Leandro Cândido, eu sou um estudante de informática do Instituto F
 ### Produção de Conteúdo
 <img align="left" title="Canva" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" />
 <img align="left" title="Obsidian" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" />
-<img align="left" title="GIMP" width="30px" style="padding-right:10px;" src="https://github.com/marshfellow42/marshfellow42/blob/8cf9745e5cb24bb0a09be5bc2001bb1ab4a9d96c/Assets/README/The_GIMP_icon_-_gnome.svg" />
+<img align="left" title="GIMP" width="30px" style="padding-right:10px;" src="/Assets/The_GIMP_icon_-_gnome.svg" />
 
 <br/>
 
@@ -64,6 +64,14 @@ Meu nome é Leandro Cândido, eu sou um estudante de informática do Instituto F
 
 <br/>
 
+#
+
+### O que eu quero aprender
+<img align="left" title="Rust" width="38px" style="padding-right:10px;" src="https://www.rust-lang.org/logos/rust-logo-512x512.png" />
+<img align="left" title="C++" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" title="Kotlin" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" />
+
+<br/>
 #
 
 ## Atividade do meu perfil
@@ -84,5 +92,5 @@ Meu nome é Leandro Cândido, eu sou um estudante de informática do Instituto F
 ![](https://komarev.com/ghpvc/?username=marshfellow42&style=flat-square)
 
 #### Leia isso em outras línguas
-<kbd>[<img title="Inglês" alt="Inglês" src="https://github.com/marshfellow42/marshfellow42/blob/d4fe1049f0805047bf43e5c5a93c7655de1b0edc/Assets/README/usa.png" width="22">](https://github.com/Marshfellow42)</kbd>
+<kbd>[<img title="Inglês" alt="Inglês" src="/Assets/usa.png" width="22">](https://github.com/Marshfellow42)</kbd>
 	

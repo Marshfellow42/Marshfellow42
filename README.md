@@ -1,4 +1,4 @@
-# Hi There <img width="32px" src="https://github.com/marshfellow42/marshfellow42/blob/34550c857a86be40afa6b96e8cc6a3a137a6bb29/Assets/README/wave.gif" />
+# Hi There <img width="32px" src="//Assets/wave.gif" />
 
 My name is Leandro Cândido. I'm an IT student at the Instituto Federal do Ceará (IFCE), currently at the 4th semester in high school.
 
@@ -31,7 +31,7 @@ My name is Leandro Cândido. I'm an IT student at the Instituto Federal do Cear�
 
 ### Operational Systems
 <img align="left" title="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-<img align="left" title="Ubuntu" width="30px" style="padding-right:10px;" src="https://github.com/marshfellow42/marshfellow42/blob/6c86057b222f06a70ed155c109ee0e0274cd5ef0/Assets/README/ubuntu-4-logo-svg-vector.svg" />
+<img align="left" title="Ubuntu" width="30px" style="padding-right:10px;" src="/Assets/ubuntu-4-logo-svg-vector.svg" />
 
 <br/>
 
@@ -39,9 +39,9 @@ My name is Leandro Cândido. I'm an IT student at the Instituto Federal do Cear�
 
 ### IDE
 <img align="left" title="Vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" title="Eclipse" width="30px" style="padding-right:10px;" src="https://github.com/marshfellow42/marshfellow42/blob/34550c857a86be40afa6b96e8cc6a3a137a6bb29/Assets/README/NicePng_eclipse-png_2648074.png" />
+<img align="left" title="Eclipse" width="30px" style="padding-right:10px;" src="/Assets/NicePng_eclipse-png_2648074.png" />
 <img align="left" title="Netbeans" width="27px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" />
-<img align="left" title="Replit" width="24px" style="padding-right:10px;" src="https://github.com/marshfellow42/marshfellow42/blob/34550c857a86be40afa6b96e8cc6a3a137a6bb29/Assets/README/replit-icon-logo-A666709FE9-seeklogo.com.png" />
+<img align="left" title="Replit" width="24px" style="padding-right:10px;" src="/Assets/replit-icon-logo-A666709FE9-seeklogo.com.png" />
 
 <br/>
 
@@ -50,7 +50,7 @@ My name is Leandro Cândido. I'm an IT student at the Instituto Federal do Cear�
 ### Content Production
 <img align="left" title="Canva" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" />
 <img align="left" title="Obsidian" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" />
-<img align="left" title="GIMP" width="30px" style="padding-right:10px;" src="https://github.com/marshfellow42/marshfellow42/blob/8cf9745e5cb24bb0a09be5bc2001bb1ab4a9d96c/Assets/README/The_GIMP_icon_-_gnome.svg" />
+<img align="left" title="GIMP" width="30px" style="padding-right:10px;" src="/Assets/The_GIMP_icon_-_gnome.svg" />
 
 <br/>
 
@@ -95,4 +95,4 @@ My name is Leandro Cândido. I'm an IT student at the Instituto Federal do Cear�
 ![](https://komarev.com/ghpvc/?username=marshfellow42&style=flat-square)
 
 #### Read this in other languages
-<kbd>[<img title="Português" title="Português" src="https://github.com/marshfellow42/marshfellow42/blob/a049424872bfac3d66825451c1c18582998a7dc5/Assets/README/brasil.png" width="22">](Translations/README_pt-br.md)</kbd>
+<kbd>[<img title="Português" title="Português" src="/Assets/brasil.png" width="22">](Translations/README_pt-br.md)</kbd>
