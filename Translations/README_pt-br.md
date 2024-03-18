@@ -72,6 +72,7 @@ Meu nome é Leandro Cândido, eu sou um estudante de informática do Instituto F
 <img align="left" title="Kotlin" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" />
 
 <br/>
+
 #
 
 ## Atividade do meu perfil
