@@ -1,4 +1,4 @@
-# Hi There <img width="32px" src="//Assets/wave.gif" />
+# Hi There <img width="32px" src="/Assets/wave.gif" />
 
 My name is Leandro Cândido. I'm an IT student at the Instituto Federal do Ceará (IFCE), currently at the 4th semester in high school.
 
