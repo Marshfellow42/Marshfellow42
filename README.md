@@ -93,4 +93,4 @@ My name is Leandro Cândido. I'm an IT student at the Instituto Federal do Cear�
 ![](https://komarev.com/ghpvc/?username=marshfellow42&style=flat-square)
 
 #### Read this in other languages
-<kbd>[<img title="Português" title="Português" src="/Assets/brasil.png" width="22">](Translations/README_pt-br.md)</kbd>
+<kbd>[<img title="Português" src="/Assets/brasil.png" width="22">](Translations/README_pt-br.md)</kbd>
