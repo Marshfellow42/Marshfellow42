@@ -85,13 +85,10 @@ Meu nome é Leandro Cândido, eu sou um estudante de informática do Instituto F
 <a href="mailto:leandrocandido6@protonmail.com"> <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" style="padding-right:10px ></a> 
 </div>
 
-<div align="left">
-<a href="https://leetcode.com/marshfellow42/"> <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" ></a> 
-</div>
+<a></a>
 
 ### Contador de visitantes
 ![](https://komarev.com/ghpvc/?username=marshfellow42&style=flat-square)
 
 #### Leia isso em outras línguas
-<kbd>[<img title="Inglês" alt="Inglês" src="/Assets/usa.png" width="22">](https://github.com/Marshfellow42)</kbd>
-	
+<kbd>[<img title="Inglês" src="/Assets/usa.png" width="22">](https://github.com/Marshfellow42)</kbd>
