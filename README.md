@@ -84,10 +84,8 @@ My name is Leandro C√¢ndido. I'm an IT student at the Instituto Federal do Cear√
 ## Where to also find me
 
 <div align="left">
-<a href="mailto:leandrocandido6@protonmail.com"> <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" style="padding-right:10px ></a> 
+<a href="mailto:leandrocandido6@protonmail.com"> <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" style="padding-right:10px" ></a> 
 </div>
-
-<a></a>
 
 ### Visitors Count
 ![](https://komarev.com/ghpvc/?username=marshfellow42&style=flat-square)
