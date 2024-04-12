@@ -55,9 +55,16 @@ Meu nome é Leandro Cândido, eu sou um estudante de informática do Instituto F
 
 #
 
+### Banco de Dados
+<img align="left" title="MySql" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" title="SQLite" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" />
+
+<br/>
+
+#
+
 ### Outros
 <img align="left" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" title="MySql" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" title="VirtualBox" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" />
 <img align="left" title="Raspberry Pi" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
 <img align="left" title="Docker" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
