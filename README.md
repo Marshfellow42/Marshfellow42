@@ -1,101 +1,111 @@
-# Hi There <img width="32px" src="/Assets/wave.gif" />
+# Olá <img width="32px" src="Assets/wave.gif" />
+Meu nome é Leandro Cândido, eu sou um estudante de informática do Instituto Federal do Ceará (IFCE), atualmente no terceiro semestre do ensino médio.
 
-My name is Leandro Cândido. I'm an IT student at the Instituto Federal do Ceará (IFCE), currently at the 4th semester in high school.
+- 🔭 Atualmente eu estou estudando **Ciência de Dados** e **Cibersegurança**
 
-- 🔭 I’m currently studying more about **Cybersecurity**
+- 💬 Meus hobbies atuais são consertar computadores e procurar ideias para projetos novos
 
-- 💬 My current hobbies are reading **manga** and working on new project ideas
+- 🌱 Atualmente estou aprendendo **Japonês**
 
-- 🌱 I’m currently learning **Japanese**
+- ☁️ Eu me encaixo melhor em trabalhos relacionados ao **Back-End** 
 
-- ☁️ I think I might be more suited to **Back-End** work
+## Habilidades Técnicas
 
-## Technical Skills
-
-### Programming Languages
-<img align="left" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" title="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+### Linguagens de Programação
+<img align="left" title="Python" width="30px" style="padding-right:10px;" src="Assets/python-original.svg" />
+<img align="left" title="Java" width="30px" style="padding-right:10px;" src="Assets/java-original.svg"/>
 
 <br/>
 
 #
 
-### Web Languages
-<img align="left" title="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" title="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+### Linguagens para Desenvolvimento Web
+<img align="left" title="HTML" width="30px" style="padding-right:10px;" src="Assets/html5-original.svg" />
+<img align="left" title="CSS" width="30px" style="padding-right:10px;" src="Assets/css3-original.svg" />
+<img align="left" title="PHP" width="50px" style="padding-right:10px;" src="Assets/PHP-logo.svg" />
 
 <br/>
 
 #
 
-### Operational Systems
-<img align="left" title="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-<img align="left" title="Ubuntu" width="30px" style="padding-right:10px;" src="/Assets/ubuntu-4-logo-svg-vector.svg" />
+### Frameworks
+<img align="left" title="Laravel" width="30px" style="padding-right:10px;" src="Assets/laravel-original.svg" />
+
+<br/>
+
+#
+
+### Sistemas Operacionais
+<img align="left" title="Windows" width="30px" style="padding-right:10px;" src="Assets/windows8-original.svg" />
+<img align="left" title="Ubuntu" width="30px" style="padding-right:10px;" src="Assets/ubuntu-4-logo-svg-vector.svg" />
 
 <br/>
 
 #
 
 ### IDE
-<img align="left" title="Vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" title="Eclipse" width="30px" style="padding-right:10px;" src="/Assets/NicePng_eclipse-png_2648074.png" />
-<img align="left" title="Netbeans" width="27px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" />
-<img align="left" title="Replit" width="24px" style="padding-right:10px;" src="/Assets/replit-icon-logo-A666709FE9-seeklogo.com.png" />
+<img align="left" title="VSCodium" width="30px" style="padding-right:10px;" src="Assets/paulo22s.png" />
+<img align="left" title="Eclipse" width="30px" style="padding-right:10px;" src="Assets/NicePng_eclipse-png_2648074.png" />
+<img align="left" title="Netbeans" width="27px" style="padding-right:10px;" src="Assets/Apache_NetBeans_Logo.svg" />
+<img align="left" title="Replit" width="24px" style="padding-right:10px;" src="Assets/replit-icon-logo-A666709FE9-seeklogo.com.png" />
 
 <br/>
 
 #
 
-### Content Production
-<img align="left" title="Canva" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" />
-<img align="left" title="Obsidian" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" />
-<img align="left" title="GIMP" width="30px" style="padding-right:10px;" src="/Assets/The_GIMP_icon_-_gnome.svg" />
+### Produção de Conteúdo
+<img align="left" title="Canva" width="30px" style="padding-right:10px;" src="Assets/Canva_icon_2021.svg" />
+<img align="left" title="Obsidian" width="30px" style="padding-right:10px;" src="Assets/2023_Obsidian_logo.svg" />
+<img align="left" title="GIMP" width="30px" style="padding-right:10px;" src="Assets/The_GIMP_icon_-_gnome.svg" />
 
 <br/>
 
 #
 
-### Databases
-<img align="left" title="MySql" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" title="SQLite" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" />
+### Banco de Dados
+<img align="left" title="MySql" width="40px" style="padding-right:10px;" src="Assets/mysql-original-wordmark.svg" />
+<img align="left" title="SQLite" width="30px" style="padding-right:10px;" src="Assets/Sqlite-square-icon.svg" />
 
 <br/>
 
 #
 
-### Others
-<img align="left" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" title="VirtualBox" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" />
-<img align="left" title="Raspberry Pi" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
-<img align="left" title="Docker" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-
+### Outros
+<img align="left" title="Git" width="30px" style="padding-right:10px;" src="Assets/git-original.svg" />
+<img align="left" title="VirtualBox" width="30px" style="padding-right:10px;" src="Assets/Virtualbox_logo.png" />
+<img align="left" title="Raspberry Pi" width="30px" style="padding-right:10px;" src="Assets/raspberrypi-original.svg" />
+<!--
+<img align="left" title="Docker" width="40px" style="padding-right:10px;" src="Assets/docker-original.svg" />
+-->
 <br/>
+
+<!--
 
 #
 
-### What I want to learn
-<img align="left" title="Rust" width="38px" style="padding-right:10px;" src="https://www.rust-lang.org/logos/rust-logo-512x512.png" />
-<img align="left" title="C++" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" title="Kotlin" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" />
+### O que eu quero aprender
+<img align="left" title="Rust" width="38px" style="padding-right:10px;" src="Assets/rust-logo-512x512.png" />
+<img align="left" title="C++" width="35px" style="padding-right:10px;" src="Assets/cplusplus-original.svg" />
+<img align="left" title="Kotlin" width="30px" style="padding-right:10px;" src="Assets/Kotlin_Icon.svg" />
 
 <br/>
 
+-->
+
 #
 
-## Coding Activity
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marshfellow42&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true" /></p>
+## Atividade do meu perfil
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marshfellow42&show_icons=true&locale=pt-br&layout=compact&theme=algolia&hide_border=true" alt="marshfellow42" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marshfellow42&show_icons=true&locale=en&theme=algolia&hide_border=true" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marshfellow42&show_icons=true&locale=pt-br&theme=algolia&hide_border=true" alt="marshfellow42" /></p>
 
-## Where to also find me
-
+## Onde também pode me encontrar
 <div align="left">
 <a href="mailto:leandrocandido6@protonmail.com"> <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" style="padding-right:10px" ></a> 
 </div>
 
-### Visitors Count
-![](https://komarev.com/ghpvc/?username=marshfellow42&style=flat-square)
+### Contador de visitantes
+![](https://komarev.com/ghpvc/?username=marshfellow42&style=flat-square&label=Vizualizações+do+perfil)
 
-#### Read this in other languages
-<kbd>[<img title="Português" src="/Assets/brasil.png" width="22">](Translations/README_pt-br.md)</kbd>
+#### Leia isso em outras línguas
+<kbd>[<img title="Inglês" src="Assets/usa.png" width="22">](Translations/README_en.md)</kbd>
