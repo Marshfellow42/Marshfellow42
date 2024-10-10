@@ -44,11 +44,16 @@ My name is Leandro C√¢ndido. I'm an IT student at the Instituto Federal do Cear√
 
 #
 
-### IDE
+### Text Editor
 <img align="left" title="VSCodium" width="30px" style="padding-right:10px;" src="../Assets/paulo22s.png" />
+
+<br/>
+
+#
+
+### IDE
 <img align="left" title="Eclipse" width="30px" style="padding-right:10px;" src="../Assets/NicePng_eclipse-png_2648074.png" />
 <img align="left" title="Netbeans" width="27px" style="padding-right:10px;" src="../Assets/Apache_NetBeans_Logo.svg" />
-<img align="left" title="Replit" width="24px" style="padding-right:10px;" src="../Assets/replit-icon-logo-A666709FE9-seeklogo.com.png" />
 
 <br/>
 
@@ -56,6 +61,7 @@ My name is Leandro C√¢ndido. I'm an IT student at the Instituto Federal do Cear√
 
 ### Content Production
 <img align="left" title="Canva" width="30px" style="padding-right:10px;" src="../Assets/Canva_icon_2021.svg" />
+<img align="left" title="Figma" width="20px" style="padding-right:10px;" src="../Assets/Figma-logo.svg" />
 <img align="left" title="Obsidian" width="30px" style="padding-right:10px;" src="../Assets/2023_Obsidian_logo.svg" />
 <img align="left" title="GIMP" width="30px" style="padding-right:10px;" src="../Assets/The_GIMP_icon_-_gnome.svg" />
 
@@ -75,7 +81,7 @@ My name is Leandro C√¢ndido. I'm an IT student at the Instituto Federal do Cear√
 <img align="left" title="Git" width="30px" style="padding-right:10px;" src="../Assets/git-original.svg" />
 <img align="left" title="VirtualBox" width="30px" style="padding-right:10px;" src="../Assets/Virtualbox_logo.png" />
 <img align="left" title="Raspberry Pi" width="30px" style="padding-right:10px;" src="../Assets/raspberrypi-original.svg" />
-<!-- <img align="left" title="Docker" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> -->
+<img align="left" title="Docker" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 
 <br/>
 
@@ -96,9 +102,7 @@ My name is Leandro C√¢ndido. I'm an IT student at the Instituto Federal do Cear√
 #
 
 ## Coding Activity
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marshfellow42&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marshfellow42&show_icons=true&locale=en&theme=algolia&hide_border=true" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=marshfellow42&show_icons=true&locale=en&theme=algolia&hide_border=true" /></p>
 
 ## Where to also find me
 

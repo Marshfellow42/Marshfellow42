@@ -43,11 +43,16 @@ Meu nome é Leandro Cândido, eu sou um estudante de informática do Instituto F
 
 #
 
-### IDE
+### Editor de Texto
 <img align="left" title="VSCodium" width="30px" style="padding-right:10px;" src="Assets/paulo22s.png" />
+
+<br/>
+
+#
+
+### IDE
 <img align="left" title="Eclipse" width="30px" style="padding-right:10px;" src="Assets/NicePng_eclipse-png_2648074.png" />
 <img align="left" title="Netbeans" width="27px" style="padding-right:10px;" src="Assets/Apache_NetBeans_Logo.svg" />
-<img align="left" title="Replit" width="24px" style="padding-right:10px;" src="Assets/replit-icon-logo-A666709FE9-seeklogo.com.png" />
 
 <br/>
 
@@ -55,6 +60,7 @@ Meu nome é Leandro Cândido, eu sou um estudante de informática do Instituto F
 
 ### Produção de Conteúdo
 <img align="left" title="Canva" width="30px" style="padding-right:10px;" src="Assets/Canva_icon_2021.svg" />
+<img align="left" title="Figma" width="20px" style="padding-right:10px;" src="Assets/Figma-logo.svg" />
 <img align="left" title="Obsidian" width="30px" style="padding-right:10px;" src="Assets/2023_Obsidian_logo.svg" />
 <img align="left" title="GIMP" width="30px" style="padding-right:10px;" src="Assets/The_GIMP_icon_-_gnome.svg" />
 
@@ -74,9 +80,7 @@ Meu nome é Leandro Cândido, eu sou um estudante de informática do Instituto F
 <img align="left" title="Git" width="30px" style="padding-right:10px;" src="Assets/git-original.svg" />
 <img align="left" title="VirtualBox" width="30px" style="padding-right:10px;" src="Assets/Virtualbox_logo.png" />
 <img align="left" title="Raspberry Pi" width="30px" style="padding-right:10px;" src="Assets/raspberrypi-original.svg" />
-<!--
 <img align="left" title="Docker" width="40px" style="padding-right:10px;" src="Assets/docker-original.svg" />
--->
 <br/>
 
 <!--
@@ -95,9 +99,7 @@ Meu nome é Leandro Cândido, eu sou um estudante de informática do Instituto F
 #
 
 ## Atividade do meu perfil
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marshfellow42&show_icons=true&locale=pt-br&layout=compact&theme=algolia&hide_border=true" alt="marshfellow42" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marshfellow42&show_icons=true&locale=pt-br&theme=algolia&hide_border=true" alt="marshfellow42" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=marshfellow42&show_icons=true&locale=pt-br&theme=algolia&hide_border=true" alt="marshfellow42" /></p>
 
 ## Onde também pode me encontrar
 <div align="left">
