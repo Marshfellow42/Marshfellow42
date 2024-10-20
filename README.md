@@ -1,7 +1,7 @@
 # Olá <img width="32px" src="Assets/wave.gif" />
 Meu nome é Leandro Cândido, eu sou um estudante de informática do Instituto Federal do Ceará (IFCE), atualmente no terceiro semestre do ensino médio.
 
-- 🔭 Atualmente eu estou estudando **Ciência de Dados** e **Cibersegurança**
+- 🔭 Atualmente eu estou estudando **Desenvolvimento Web**
 
 - 💬 Meus hobbies atuais são consertar computadores e procurar ideias para projetos novos
 
