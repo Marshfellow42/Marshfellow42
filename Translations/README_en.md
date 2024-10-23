@@ -1,14 +1,14 @@
 # Hi There <img width="32px" src="../Assets/wave.gif" />
 
-My name is Leandro Cândido. I'm an IT student at the Instituto Federal do Ceará (IFCE), currently at the 4th semester in high school.
+My name is Leandro Cândido. I'm an IT student at the Instituto Federal do Ceará (IFCE), currently at the 5th semester of high school.
 
-- 🔭 I’m currently studying more about **Cybersecurity**
+- 🔭 I’m currently studying **Web Development**
 
 - 💬 My current hobbies are reading **manga** and working on new project ideas
 
 - 🌱 I’m currently learning **Japanese**
 
-- ☁️ I think I might be more suited to **Back-End** work
+- ☁️ I'm more suited to **Back-End** work, but I also work on **Full Stack** when necessary
 
 ## Technical Skills
 
@@ -36,7 +36,7 @@ My name is Leandro Cândido. I'm an IT student at the Instituto Federal do Cear�
 
 #
 
-### Operational Systems
+### Operating Systems
 <img align="left" title="Windows" width="30px" style="padding-right:10px;" src="../Assets/windows8-original.svg" />
 <img align="left" title="Ubuntu" width="30px" style="padding-right:10px;" src="../Assets/ubuntu-4-logo-svg-vector.svg" />
 
@@ -59,7 +59,7 @@ My name is Leandro Cândido. I'm an IT student at the Instituto Federal do Cear�
 
 #
 
-### Content Production
+### Content Creation
 <img align="left" title="Canva" width="30px" style="padding-right:10px;" src="../Assets/Canva_icon_2021.svg" />
 <img align="left" title="Figma" width="20px" style="padding-right:10px;" src="../Assets/Figma-logo.svg" />
 <img align="left" title="Obsidian" width="30px" style="padding-right:10px;" src="../Assets/2023_Obsidian_logo.svg" />
@@ -70,7 +70,7 @@ My name is Leandro Cândido. I'm an IT student at the Instituto Federal do Cear�
 #
 
 ### Databases
-<img align="left" title="MySql" width="40px" style="padding-right:10px;" src="../Assets/mysql-original-wordmark.svg" />
+<img align="left" title="MySQL" width="40px" style="padding-right:10px;" src="../Assets/mysql-original-wordmark.svg" />
 <img align="left" title="SQLite" width="30px" style="padding-right:10px;" src="../Assets/Sqlite-square-icon.svg" />
 
 <br/>
@@ -81,7 +81,7 @@ My name is Leandro Cândido. I'm an IT student at the Instituto Federal do Cear�
 <img align="left" title="Git" width="30px" style="padding-right:10px;" src="../Assets/git-original.svg" />
 <img align="left" title="VirtualBox" width="30px" style="padding-right:10px;" src="../Assets/Virtualbox_logo.png" />
 <img align="left" title="Raspberry Pi" width="30px" style="padding-right:10px;" src="../Assets/raspberrypi-original.svg" />
-<img align="left" title="Docker" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="left" title="Docker" width="40px" style="padding-right:10px;" src="../Assets/docker-original.svg" />
 
 <br/>
 
@@ -91,7 +91,6 @@ My name is Leandro Cândido. I'm an IT student at the Instituto Federal do Cear�
 
 ### What I want to learn
 <img align="left" title="Rust" width="38px" style="padding-right:10px;" src="../Assets/rust-logo-512x512.png" />
-<img align="left" title="C" width="35px" style="padding-right:10px;" src="../Assets/c-original.svg" />
 <img align="left" title="C++" width="35px" style="padding-right:10px;" src="../Assets/cplusplus-original.svg" />
 <img align="left" title="Kotlin" width="30px" style="padding-right:10px;" src="../Assets/Kotlin_Icon.svg" />
 
@@ -111,7 +110,7 @@ My name is Leandro Cândido. I'm an IT student at the Instituto Federal do Cear�
 </div>
 
 ### Visitors Count
-![](https://komarev.com/ghpvc/?username=marshfellow42&style=flat-square)
+![](https://komarev.com/ghpvc/?username=marshfellow42&style=flat-square&label=Profile+Views)
 
 #### Read this in other languages
 <kbd>[<img title="Português" src="../Assets/brasil.png" width="22">](https://github.com/Marshfellow42)</kbd>
