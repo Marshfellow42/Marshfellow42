@@ -3,11 +3,11 @@ Meu nome é Leandro Cândido, eu sou um estudante de informática do Instituto F
 
 - 🔭 Atualmente eu estou estudando **Desenvolvimento Web**
 
-- 💬 Meus hobbies atuais são consertar computadores e procurar ideias para projetos novos
+- 💬 Meus hobbies atuais são ler **mangá** e trabalhar em ideias para projetos novos
 
 - 🌱 Atualmente estou aprendendo **Japonês**
 
-- ☁️ Eu me encaixo melhor em trabalhos relacionados ao **Back-End** 
+- ☁️ Eu me encaixo melhor em trabalhos relacionados ao **Back-End**, mas eu também consigo trabalhar como **Full Stack** quando necessário
 
 ## Habilidades Técnicas
 
@@ -69,7 +69,7 @@ Meu nome é Leandro Cândido, eu sou um estudante de informática do Instituto F
 #
 
 ### Banco de Dados
-<img align="left" title="MySql" width="40px" style="padding-right:10px;" src="Assets/mysql-original-wordmark.svg" />
+<img align="left" title="MySQL" width="40px" style="padding-right:10px;" src="Assets/mysql-original-wordmark.svg" />
 <img align="left" title="SQLite" width="30px" style="padding-right:10px;" src="Assets/Sqlite-square-icon.svg" />
 
 <br/>
