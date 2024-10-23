@@ -1,5 +1,5 @@
 # Olá <img width="32px" src="Assets/wave.gif" />
-Meu nome é Leandro Cândido, eu sou um estudante de informática do Instituto Federal do Ceará (IFCE), atualmente no terceiro semestre do ensino médio.
+Meu nome é Leandro Cândido, eu sou um estudante de informática do Instituto Federal do Ceará (IFCE), atualmente no 5° semestre do ensino médio.
 
 - 🔭 Atualmente eu estou estudando **Desenvolvimento Web**
 
